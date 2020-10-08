@@ -1,6 +1,6 @@
 ### Hello, Welcome!
 
-## I'm a Husband, Father, and Developer!
+## I'm a Father, and Developer!
 - 📚 I'm trying to learn and grow more as a developer each day. 
 - 🧪 I love experimenting with new technologies.
 - 💻 There is no greater satisfaction than creating or contributing to a good software!

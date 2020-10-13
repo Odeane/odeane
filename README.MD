@@ -7,8 +7,8 @@ can be easily maintained. I am a recent graduate of a coding bootcamp where I ha
 - 📚 I'm trying to learn and grow more as a developer each day. 
 - 🧪 I love experimenting with new technologies.
 - 💻 There is no greater satisfaction than creating or contributing to a good software!
-- 🏠 I am based in Stockholm, Sweden.  
-- 🏝 I am originally from the Island of Jamaica.
+- 🤝 I enjoy pair programming.  
+- 🔥 Passionate about providing quality a solution.
 
 ### Connect with me:
 [<img align="left" alt="odeane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

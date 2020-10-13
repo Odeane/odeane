@@ -40,7 +40,6 @@ CI(SEMAPHORE) | CD(Netlify & Heroku ...)
 <br />
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeane&layout=compact&theme=tokyonight&langs_count=6)
 <img align="left" alt="Odeane Github Stats" src="https://github-readme-stats.vercel.app/api?username=odeane&show_icons=true&hide_border=true&theme=tokyonight" />
 
 

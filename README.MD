@@ -1,4 +1,4 @@
-### Hello, Welcome!
+# Hello, Welcome!
 
 I am an ambitious software developer filled with excitement, dedication and passion for the craft. I take pride in writing structured code that
 can be easily maintained. I am a recent graduate of a coding bootcamp where I have learned and experienced building full-stack web applications following agile methodologies.
@@ -18,24 +18,29 @@ can be easily maintained. I am a recent graduate of a coding bootcamp where I ha
 
 ### Languages and Tools:
 
+JavaScript | React | React Native <br/>
+Ruby | Ruby on Rails | NodeJS <br/>
+HTML5 | CSS3 | Postgresql | Mongodb 
+Cypress | Jest with Enzyme | RSpec <br />
+Test Coverage Metrics(COVERALLS) <br />
+CI(SEMAPHORE) | CD(Netlify & Heroku ...)
+<br/>
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-
-
-
 <br />
 <br />
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeane&layout=compact&theme=tokyonight&langs_count=6)
 <img align="left" alt="Odeane Github Stats" src="https://github-readme-stats.vercel.app/api?username=odeane&show_icons=true&hide_border=true" />
 
 

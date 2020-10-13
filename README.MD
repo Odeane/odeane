@@ -1,6 +1,9 @@
 ### Hello, Welcome!
 
-## I'm a Father, and Developer!
+I am an ambitious software developer filled with excitement, dedication and passion for the craft. I take pride in writing structured code that
+can be easily maintained. I am a recent graduate of a coding bootcamp where I have learned and experienced building full-stack web applications following agile methodologies.
+
+## Full-Stack Web Developer based in Stockholm, Sweden.
 - 📚 I'm trying to learn and grow more as a developer each day. 
 - 🧪 I love experimenting with new technologies.
 - 💻 There is no greater satisfaction than creating or contributing to a good software!
